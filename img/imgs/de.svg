@@ -1,0 +1,5 @@
+<svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="11" cy="11" r="11" transform="rotate(90 11 11)" fill="#FF0000"/>
+<path d="M11 22C15.7296 22 19.7616 19.0149 21.3158 14.8261L0.684135 14.8261C2.2384 19.0149 6.27037 22 11 22Z" fill="#FFCC00"/>
+<path d="M11 0C6.27037 0 2.2384 2.98513 0.684179 7.17393L21.3158 7.17393C19.7616 2.98513 15.7296 0 11 0Z" fill="black"/>
+</svg>
